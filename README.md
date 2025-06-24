@@ -15,7 +15,7 @@ A simple and fun web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScrip
 5. 📱 Responsive design with smooth UI and modern gradients.
 
 🚀 Demo
-👉 Live Demo Link (https://github.com/your-username/tic-tac-toe.git)
+👉 Live Demo Link (https://github.com/artwithtannu/tic-tac-toe.git)
 
 
 🛠️ Technologies Used
