@@ -8,4 +8,48 @@ A simple and fun web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScrip
 5. 📱 Responsive design with smooth UI and modern gradients.
 
 🚀 Demo
-👉 Live Demo Link (C:\Users\tk301\OneDrive\Documents\All Project\Tic-toe)
+👉 Live Demo Link ()
+🛠️ Technologies Used
+1. HTML5 (HyperText Markup Language)
+HTML is the standard markup language for creating web pages. In this project, it's used to:
+1. Structure the layout of the page
+2. Create the Tic-Tac-Toe board using a div grid or buttons
+3. Define elements like:
+. Game title (<h1>)
+. Game status display (whose turn it is)
+. Restart button
+4. Provide semantic meaning to the content
+📁 Main file: index.html
+
+2. CSS (Cascading Style Sheets)
+CSS is used to style and visually design the game. In this project, CSS handles:
+1. Layout: Centering the game on the page and organizing the 3x3 grid
+2. Styling:
+.   Rounded boxes with hover effects
+.   Gradient background for a modern look
+.   Button styles and transitions
+3. Responsiveness:
+Makes the game playable on different screen sizes (phones, tablets, etc.)
+Custom fonts and spacing for a clean UI
+📁 Stylesheet: style.css
+
+3. JavaScript (JS)
+JavaScript brings the game to life with interactivity and logic. In this project, it is used for:
+1. Game Mechanics:
+.   Detecting player turns (X or O)
+.   Updating the board when a cell is clicked
+.   Checking for win conditions or a draw
+2. DOM Manipulation:
+.   Dynamically updating text like "Player X's turn"
+3. Reset functionality:
+.   Clears the board and restarts the game when the "Restart Game" button is clicked
+📁 Script file: script.js
+
+▶️ How to Play
+1. Open the game in your browser.
+2. Player X starts the game.
+3. Players take turns marking a cell.
+4. The first to get three in a row (horizontal, vertical, or diagonal) wins.
+5. Click Restart Game to play again.
+
+
