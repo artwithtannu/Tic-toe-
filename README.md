@@ -38,6 +38,7 @@ HTML is the standard markup language for creating web pages. In this project, it
 
 
 2. CSS (Cascading Style Sheets)
+
   CSS is used to style and visually design the game. In this project, CSS handles:
     1. Layout: Centering the game on the page and organizing the 3x3 grid
     2. Styling:
