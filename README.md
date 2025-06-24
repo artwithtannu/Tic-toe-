@@ -47,15 +47,17 @@ HTML is the standard markup language for creating web pages. In this project, it
 📁 Stylesheet: style.css
 
 3. JavaScript (JS)
+
 JavaScript brings the game to life with interactivity and logic. In this project, it is used for:
-1. Game Mechanics:
-.   Detecting player turns (X or O)
-.   Updating the board when a cell is clicked
-.   Checking for win conditions or a draw
-2. DOM Manipulation:
-.   Dynamically updating text like "Player X's turn"
-3. Reset functionality:
-.   Clears the board and restarts the game when the "Restart Game" button is clicked.
+
+1.   Game Mechanics:
+    .   Detecting player turns (X or O)
+    .   Updating the board when a cell is clicked
+    .   Checking for win conditions or a draw
+2.   DOM Manipulation:
+   .   Dynamically updating text like "Player X's turn"
+3.   Reset functionality:
+.       Clears the board and restarts the game when the "Restart Game" button is clicked.
    
 📁 Script file: script.js
 
