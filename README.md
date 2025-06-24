@@ -24,7 +24,6 @@ HTML is the standard markup language for creating web pages. In this project, it
   1.  Structure the layout of the page
   2.  Create the Tic-Tac-Toe board using a div grid or buttons
   3.  Define elements like:
-
         . Game title (<Tic-Tac-Toe>)
         . Game status display (whose turn it is)
         . Restart button
