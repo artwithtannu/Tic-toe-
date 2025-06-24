@@ -20,9 +20,13 @@ A simple and fun web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScrip
 
 🛠️ Technologies Used
 1. HTML5 (HyperText Markup Language)
+
 HTML is the standard markup language for creating web pages. In this project, it's used to:
+
   1.  Structure the layout of the page
+    
   2.  Create the Tic-Tac-Toe board using a div grid or buttons
+    
   3.  Define elements like:
 
         . Game title (Tic-Tac-Toe)
