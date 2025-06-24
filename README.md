@@ -28,8 +28,11 @@ HTML is the standard markup language for creating web pages. In this project, it
         . Game title (<h1>)
         . Game status display (whose turn it is)
         . Restart button
-  5. Provide semantic meaning to the content
+  4.  Provide semantic meaning to the content
+
 📁 Main file: index.html
+
+
 
 2. CSS (Cascading Style Sheets)
   CSS is used to style and visually design the game. In this project, CSS handles:
@@ -41,6 +44,7 @@ HTML is the standard markup language for creating web pages. In this project, it
     3. Responsiveness:
     .     Makes the game playable on different screen sizes (phones, tablets, etc.)
     .     Custom fonts and spacing for a clean UI
+       
 📁 Stylesheet: style.css
 
 3. JavaScript (JS)
@@ -52,7 +56,8 @@ JavaScript brings the game to life with interactivity and logic. In this project
 2. DOM Manipulation:
 .   Dynamically updating text like "Player X's turn"
 3. Reset functionality:
-.   Clears the board and restarts the game when the "Restart Game" button is clicked
+.   Clears the board and restarts the game when the "Restart Game" button is clicked.
+   
 📁 Script file: script.js
 
 
@@ -75,7 +80,8 @@ JavaScript brings the game to life with interactivity and logic. In this project
 
 ![Screenshot 2025-06-24 223514](https://github.com/user-attachments/assets/e158e906-144f-482d-92c3-fe56ba766f26)
 
-![Uploading Screenshot 2025-06-24 223531.png…]()
+![Screenshot 2025-06-24 223531](https://github.com/user-attachments/assets/01e7dcea-0d37-410b-a342-3fa5d440c564)
+
 
 
 
