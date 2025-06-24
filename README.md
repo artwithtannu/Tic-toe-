@@ -40,12 +40,13 @@ HTML is the standard markup language for creating web pages. In this project, it
 2. CSS (Cascading Style Sheets)
 
   CSS is used to style and visually design the game. In this project, CSS handles:
-    1. Layout: Centering the game on the page and organizing the 3x3 grid
-    2. Styling:
+ 
+  1. Layout: Centering the game on the page and organizing the 3x3 grid
+  2. Styling:
     .   Rounded boxes with hover effects
     .   Gradient background for a modern look
     .   Button styles and transitions
-    3. Responsiveness:
+  3. Responsiveness:
     .     Makes the game playable on different screen sizes (phones, tablets, etc.)
     .     Custom fonts and spacing for a clean UI
        
@@ -78,8 +79,6 @@ JavaScript brings the game to life with interactivity and logic. In this project
 3. Players take turns marking a cell.
 4. The first to get three in a row (horizontal, vertical, or diagonal) wins.
 5. Click Restart Game to play again.
-
-![Screenshot 2025-04-19 184259](https://github.com/user-attachments/assets/005c5762-c80d-4cd5-bdce-d59bb025907f)
 
 
 
